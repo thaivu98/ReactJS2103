@@ -1,0 +1,20 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#nav li{
+    color: rgb(180, 233, 58);
+    height: 30px;
+    background-color: black;
+    display:inline-block;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 0px 24px;
+    text-decoration: none;
+}
+#about{
+    color: red;
+    background-color: yellow;
+    font-size: 13px;
+}
