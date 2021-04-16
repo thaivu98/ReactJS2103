@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin:2px ;
+    box-sizing: inherit;
+
+}
+
+.dautrang{
+    width:25px ;
+    height:40px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.menu div{
+    display: inline;
+    align-items: flex-end;
+    margin: 15px;
+    font-size: 11px;
+    line-height: 40px;
+}
+.Features{
+    display: none;
+    position: absolute;
+    white-space: nowrap;
+    min-height: 40px;
+    background-color: white;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.class1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    height: 500px;
+    width: 1080px;
+}
+
+#sesion1_1{
+    padding-top: 100px;
+    height: 300px;
+    width: 50%;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+#sesion1_1 h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 22px;
+}
+
+#sesion1_1 h1 div{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 22px;
+}
+
+#sesion1_2{
+    max-width: 500px;
+    max-width: 500px;
+    display: block;
+}
+
+.class2{
+    padding-top: 30px;
+    background-color: #e9eaf0;
+    width: 100%; 
+    height: auto;
+}
+
+#c1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+.c2{
+    width: 1080px;
+    height: 400px;
+    display: flex;
+}
+#c2_1{
+    width: 200px;
+    height: auto;
+    margin-left: 150px;
+}
+
+#c2_2{
+    width: 200px;
+    height: auto;
+    margin-left: 120px;
+}
+
+#c2_3{
+    width: 200px;
+    height: auto;
+    margin-left: 120PX;
+}
+
+.a{
+    display: flex;
+
+}
+#a1{
+    width: 500px;
+    height: 500px;
+    margin-left: 200px ;
+}
+
+#a2{
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+    line-height: 1;
+    padding: 5px;
+}
+
+.b{
+    width: auto;
+    height: 500px;
+    background-color: black;
+    color: white;
+}
+.b1{
+    display: grid;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    padding: 40px 0;
+}
+
+.cuoi {
+    width: auto;
+    height: 20px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cuoi1{
+    width: 300px;
+    height: 50px;
+    border: 1px;
+    border-radius: 8px;
+    background-color: white;
+}
+
