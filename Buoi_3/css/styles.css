@@ -1,0 +1,9 @@
+  ul li:nth-child(3) p  {
+        color:red;
+}
+a:active{
+    color: red;
+}
+a:hover{
+    color: greenyellow;
+}

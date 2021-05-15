@@ -135,11 +135,24 @@ body{
     color: white;
 }
 .b1{
-    display: grid;
-    justify-content: space-between;
+    display: flex;
+    /* justify-content: space-between;
     justify-items: center;
     align-items: center;
-    padding: 40px 0;
+    padding: 40px 0; */
+}
+.b1 img{
+    max-width: 50px;
+    max-height: 50px;
+    margin: 10px;
+}
+
+.b2{
+    display: flex;
+    /* justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+    padding: 40px 0; */
 }
 
 .cuoi {
