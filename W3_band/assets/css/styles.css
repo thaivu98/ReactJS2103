@@ -1,0 +1,62 @@
+/* Reset css*/
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html{
+    font-family: Helvetica, Arial, sans-serif;
+}
+/*
+    Nguyn tac lam
+    1. Tu ngoai vao trong
+    2. Tu tren xuong duoi
+    3. Tu tong quan den chi tiet
+*/
+/*
+1. vi tr 
+2. kich thuoc
+3. mau sac
+4. kieu dang(kieu chu, mau chu, hinh dang,...)
+
+*/
+#main{
+
+}
+
+#header{
+    height: 46.4px;
+    background-color: black;
+
+}
+#nav li a{
+    color: white;
+    text-decoration: none;
+    line-height: 46.4px;
+    padding: 0 24px;
+    display: inline-block;
+}
+
+#nav li:hover a{
+    color: #000;
+    background-color: white;
+}
+#nav li{
+    display: inline-block;
+}
+
+#nav .subnav{
+    display: none;
+}
+
+#slider{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
